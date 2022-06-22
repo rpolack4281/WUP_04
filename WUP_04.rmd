@@ -80,3 +80,5 @@ According to these confidence intervals the data of the high school and graduate
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the box plots, the numerical data including the mean, as well as the inferential results, we can say that by the time that a person receives a graduate degree, their word sum test will be greater than when they were in Lt and regular high school.
